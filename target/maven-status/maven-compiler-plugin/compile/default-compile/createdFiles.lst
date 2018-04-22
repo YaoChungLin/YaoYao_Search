@@ -1,0 +1,8 @@
+com\yaoyao\search\httpclient\HttpResult.class
+com\yaoyao\search\controller\SearchController.class
+com\yaoyao\search\httpclient\IdleConnectionEvictor.class
+com\yaoyao\search\service\ApiService.class
+com\yaoyao\search\bean\Item.class
+com\yaoyao\search\service\ItemSearchService.class
+com\yaoyao\search\bean\SearchResult.class
+com\yaoyao\search\service\ItemService.class
